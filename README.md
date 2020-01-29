@@ -1,5 +1,5 @@
 # University_Notes
-Repo for all my raw uni notes, some of them are not full version.
+Repo for useful raw uni notes, some of them are not full version.
 
 BE Computer Engineering 
 ## DataBases
