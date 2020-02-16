@@ -1,9 +1,13 @@
 # University_Notes
 Repo for useful raw uni notes, some of them are not full version.
 
-## BE Computer Engineering (UniPD)
+## BE Computer Engineering (UniPD) 
+## Analisys 1
+* **Theorems and proofs** - [teoremi_e_dimostrazioni.pdf](https://github.com/TobMTV/University_Notes/blob/master/teoremi_e_dimostrazioni.pdf)
+
 ## DataBases
 * **Notes** - [DATABASENOTES.pdf](https://github.com/TobMTV/University_Notes/blob/master/DATABASENOTES.pdf)
+* **Project** - [ProgettoDB.pdf](https://github.com/TobMTV/University_Notes/blob/master/ProgettoDB.pdf)
 
 ## Telecomunications
 * **Formulas** - [TELE_FORMULAS.pdf](https://github.com/TobMTV/University_Notes/blob/master/a6_fond_comunicazioni.pdf)
