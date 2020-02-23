@@ -1,6 +1,6 @@
 # University_Notes
 ![UniPD](https://github.com/TobMTV/University_Notes/blob/master/logounipd.png)
-![Sapienza](https://github.com/TobMTV/University_Notes/blob/master/Wanted-the-best_rif.jpg =300x300)
+![Sapienza](https://github.com/TobMTV/University_Notes/blob/master/Wanted-the-best_rif.jpg){:height="300px" width="300px"}
 
 Repo for useful raw uni notes, some of them are not full version.
 
