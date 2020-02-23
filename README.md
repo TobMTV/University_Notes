@@ -1,6 +1,6 @@
 # University_Notes
 ![UniPD](https://github.com/TobMTV/University_Notes/blob/master/logounipd.png)
-<a href="url"><img src="https://github.com/TobMTV/University_Notes/blob/master/Wanted-the-best_rif.jpg" align="left" height="250" width="300" ></a>
+<a href="url"><img src="https://github.com/TobMTV/University_Notes/blob/master/Wanted-the-best_rif.jpg" align="left" height="240" width="300" ></a>
 
 
 Repo for useful raw uni notes, some of them are not full version.
