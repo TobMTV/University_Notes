@@ -1,8 +1,8 @@
 # University_Notes
-Repo for useful raw uni notes, some of them are not full version.
 ![UniPD](https://github.com/TobMTV/University_Notes/blob/master/logounipd.png)
 ![Sapienza](https://github.com/TobMTV/University_Notes/blob/master/Wanted-the-best_rif.jpg)
 
+Repo for useful raw uni notes, some of them are not full version.
 
 
 ## Python fast guide
