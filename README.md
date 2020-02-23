@@ -1,6 +1,6 @@
 # University_Notes
 Repo for useful raw uni notes, some of them are not full version.
-![UniPD](https://github.com/TobMTV/University_Notes/blob/master/Logo_Universit%C3%A0_Padova.png)
+![UniPD](https://github.com/TobMTV/University_Notes/blob/master/logounipd.png)
 ![Sapienza](lhttps://github.com/TobMTV/University_Notes/blob/master/Wanted-the-best_rif.jpg)
 
 
