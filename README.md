@@ -13,6 +13,9 @@ Repo for useful raw uni notes, some of them are not full version.
 ## Analisys 1
 * **Theorems and proofs** - [teoremi_e_dimostrazioni.pdf](https://github.com/TobMTV/University_Notes/blob/master/teoremi_e_dimostrazioni.pdf)
 
+## Networks
+* **Exercises** - [NW exercises](https://github.com/TobMTV/Networks---Unipd) 
+
 ## DataBases
 * **Notes** - [DATABASENOTES.pdf](https://github.com/TobMTV/University_Notes/blob/master/DATABASENOTES.pdf)
 * **Project** - [ProgettoDB.pdf](https://github.com/TobMTV/University_Notes/blob/master/ProgettoDB.pdf)
