@@ -33,3 +33,7 @@ Repo for useful raw uni notes, some of them are not full version.
 
 ## Network Infrastructures
 * **Notes** - [NWINOTES.pdf](https://github.com/TobMTV/University_Notes/blob/master/Network%20Infrastructuresnotes.pdf)
+
+## IoT
+* **Notes** - [IOTNOTES.pdf](https://github.com/TobMTV/University_Notes/blob/master/Internet_of_things_notes_april_version.pdf)
+
