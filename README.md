@@ -14,6 +14,8 @@ Repo for useful raw uni notes, some of them are not full version.
 * **Theorems and proofs** - [teoremi_e_dimostrazioni.pdf](https://github.com/TobMTV/University_Notes/blob/master/teoremi_e_dimostrazioni.pdf)
 ## Analisys 2 and Probability
 * **Course Summary** - [risultatiApprendimentoAttesiFAMP.pdf](https://github.com/TobMTV/University_Notes/blob/master/risultatiApprendimentoAttesiFAMP.pdf)
+* **HOWTO exercises** - [Linee_guida_esercizi_FAMP.pdf](https://github.com/TobMTV/University_Notes/blob/master/Linee_guida_esercizi_FAMP.pdf)
+
 ## Networks
 * **Exercises** - [NW exercises](https://github.com/TobMTV/Networks---Unipd) 
 
